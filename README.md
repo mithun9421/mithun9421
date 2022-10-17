@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on creating an online resume that would show my skills and portfolios. Always passionate about building mini apps for fun.
+
+🌱 I’m currently learning React JS - Advanced Design Patterns, Algorithms for better code optimisation.
+
+💬 Ask me about anything with regards to frontend
+
+😄 Pronouns: He/Him
