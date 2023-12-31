@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-Technologies:
+## Technologies:
 - ReactJS
 - NodeJS
 - Python (Basics)
