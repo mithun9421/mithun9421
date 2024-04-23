@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/mrbad"><img src="https://api.daily.dev/devcards/v2/65NHRJnBG.png?type=default&r=tch" width="356" alt="Mithun Muralee's Dev Card"/></a>
+
 🔭 I’m currently working on creating an online resume that would show my skills and portfolios. Always passionate about building mini apps for fun.
 
 🌱 I’m currently learning React JS - Advanced Design Patterns, Algorithms for better code optimisation.
