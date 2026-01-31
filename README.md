@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/mrbad"><img src="https://api.daily.dev/devcards/v2/65NHRJnBG.png?type=default&r=tch" width="356" alt="Mithun Muralee's Dev Card"/></a>
-![👋 Hello, Its Mithun](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
